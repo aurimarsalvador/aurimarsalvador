@@ -1,7 +1,7 @@
 ### E aí! 👋 Me chamo Aurimar. Como você está? 
 
 - 🔭 Atualmente trabalho como Analista de Tecnologia da Informação (não só atualmente, já faz 8 anos. Mas não sou velho, tá? Rsrs)
-- 🌱 Estou constantemente aprimorando minhas skills em Ruby on Rails e PostgreSQL pois sou apaixonado na linguagem e em banco de dados
+- 🌱 Estou constantemente aprimorando minhas skills em desenvolvimento web e sou apaixonado por aprender novas linguagens. Minhas main stacks são: Ruby on Rails, Bootstrap e PostgreSQL
 - 📫 Contate-me através do meu e-mail: aurimarsalvador@hotmail.com
 
 <div style="display: inline_block"><br>
