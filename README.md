@@ -1,8 +1,8 @@
 ### Bem vindo(a)!
 
-- Atualmente trabalho como Orientador de Laboratório de Tecnologias
-- Sou um profissional com mais de 10 anos de experiência em Infraestrutura e Cloud
-- Hoje eu estou brincando de ser DevOps focado em Azure e AWS
+- Atualmente trabalho como Professor de Laboratório de Tecnologias
+- Sou um profissional com mais de 10 anos de experiência em Infraestrutura de TI
+- Hoje eu estou brincando de ser desenvolvedor backend Java + Spring Boot
 - Contate-me através do meu e-mail: aurimarsalvador@hotmail.com
 
 <div style="display: inline_block"><br>
